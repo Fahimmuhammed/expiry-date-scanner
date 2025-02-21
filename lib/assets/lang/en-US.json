@@ -1,0 +1,13 @@
+{
+    "app_title": "Expiry Date Scanner",
+    "scan_product": "Scan Product",
+    "view_history": "View History",
+    "scanned_history": "Scanned History",
+    "select_image": "Pick Image",
+    "reset_image": "Reset Image",
+    "no_expiry_detected": "No Expiry Date Detected",
+    "expiry_date": "Expiry Date: ",
+    "error": "Error: ",
+    "loading": "Loading..."
+  }
+  
